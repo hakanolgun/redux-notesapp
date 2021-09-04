@@ -1,4 +1,4 @@
-# eCommerce Clothes Store - ReactJS & Mockapi.io
+# Notes App with ReactJS and Redux
 
 See live: [https://redux-notesapp.netlify.app/](https://redux-notesapp.netlify.app/)
 
