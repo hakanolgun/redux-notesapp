@@ -17,8 +17,10 @@ See live: [https://redux-notesapp.netlify.app/](https://redux-notesapp.netlify.a
 * Redux
 * nanoid
 
-## How To Run
+## Usage
 
 In the project directory, you can run:
 
-### `yarn start`
+```
+yarn start
+```
